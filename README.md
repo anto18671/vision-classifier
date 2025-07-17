@@ -50,12 +50,12 @@ vision-classifier/
 │
 ├── data/
 │   ├── train/
-│   │   ├── T-shirt/
-│   │   ├── Trouser/
+│   │   ├── 0/
+│   │   ├── 1/
 │   │   └── ...
 │   └── val/
-│       ├── T-shirt/
-│       ├── Trouser/
+│       ├── 0/
+│       ├── 1/
 │       └── ...
 ```
 
